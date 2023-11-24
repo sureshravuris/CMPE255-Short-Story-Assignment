@@ -1,6 +1,7 @@
 # **Machine Learning-based Nutrient Application’s Timeline Recommendation for Smart Agriculture: A Large-Scale Data Mining Approach**
 
 **Medium Article:** https://medium.com/@sureshravuri07/harnessing-machine-learning-for-precision-agriculture-a-data-driven-approach-to-fertilizer-db6f937c578c
+
 **Youtube Video:** https://youtu.be/EdBM9d8RQUE
 
 
