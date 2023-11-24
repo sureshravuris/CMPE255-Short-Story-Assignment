@@ -49,6 +49,6 @@ Please note that all assignment deliverables are located within the `short_story
 1. README.md: File in this repository detailing information about this assignment.
 2. [ML in the Fields - Data Mining Approach.pdf](https://arxiv.org/ftp/arxiv/papers/2310/2310.12052.pdf): File in this repository that contains the research paper that was used for this assignment.
 3. [Machine Learning-based Nutrient Application’s Timeline Recommendation for Smart Agriculture.pptx](https://www.slideshare.net/sureshravuri5/machine-learningbased-nutrient-applications-timeline-recommendation-for-smart-agriculturepptx-6f02): Powerpoint presentation that was created for this assignment.
-4. [Machine Learning-based Nutrient Application’s Timeline Recommendation for Smart Agriculture](http://youtube.com): Video that was created for this assignment.
+4. [Machine Learning-based Nutrient Application’s Timeline Recommendation for Smart Agriculture](https://youtu.be/EdBM9d8RQUE): Video that was created for this assignment.
 
 
