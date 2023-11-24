@@ -3,13 +3,13 @@
 
 # Resources
 
-- **Research Paper**: Find the detailed research paper titled 'Machine Learning-based Nutrient Application’s Timeline Recommendation for Smart Agriculture: A Large-Scale Data Mining Approach'. [Access the full paper here](https://arxiv.org/ftp/arxiv/papers/2310/2310.12052.pdf).
+- 📄 **Research Paper**: Find the detailed research paper titled 'Machine Learning-based Nutrient Application’s Timeline Recommendation for Smart Agriculture: A Large-Scale Data Mining Approach'. [Access the full paper here](https://arxiv.org/ftp/arxiv/papers/2310/2310.12052.pdf).
 
 - 📝 **Medium Article**: For a summarized overview, read our Medium article, 'Harnessing Machine Learning for Precision Agriculture: A Data-Driven Approach to Fertilizer Application'. [Read the article here](https://medium.com/@sureshravuri07/harnessing-machine-learning-for-precision-agriculture-a-data-driven-approach-to-fertilizer-db6f937c578c).
 
 - ▶️ **YouTube Presentation**: Watch our presentation on this topic for a more visual and interactive explanation. [Watch the video here](https://youtu.be/EdBM9d8RQUE).
 
-- **PowerPoint Presentation**: For a quick visual summary, view our PowerPoint presentation. [Access the presentation here](https://www.slideshare.net/sureshravuri5/machine-learningbased-nutrient-applications-timeline-recommendation-for-smart-agriculturepptx-6f02)
+- 🗂️ **PowerPoint Presentation**: For a quick visual summary, view our PowerPoint presentation. [Access the presentation here](https://www.slideshare.net/sureshravuri5/machine-learningbased-nutrient-applications-timeline-recommendation-for-smart-agriculturepptx-6f02)
 
 
 
