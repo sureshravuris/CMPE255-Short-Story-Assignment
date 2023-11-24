@@ -1,7 +1,7 @@
 # **Machine Learning-based Nutrient Application’s Timeline Recommendation for Smart Agriculture: A Large-Scale Data Mining Approach**
 
 
-# Resources
+## Resources
 
 - 📄 **Research Paper**: Find the detailed research paper titled 'Machine Learning-based Nutrient Application’s Timeline Recommendation for Smart Agriculture: A Large-Scale Data Mining Approach'. [Access the full paper here](https://arxiv.org/ftp/arxiv/papers/2310/2310.12052.pdf).
 
